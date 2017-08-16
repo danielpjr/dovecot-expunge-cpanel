@@ -1,4 +1,4 @@
-# dovecot-expunge-cpanel
+# Dovecot expunge cPanel
 Shell script to remove old emails in the boxes: trash, spam and drafts.
 
 # Usage:
